@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a0ac36b6c487cf68ed19fe9172bf0039
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Documentation/Asset_List.csv
+  uploadId: 1034874

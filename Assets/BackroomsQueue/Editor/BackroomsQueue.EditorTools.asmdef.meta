@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cef7bde86459946adb5fd71e5436e310
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Editor/BackroomsQueue.EditorTools.asmdef
+  uploadId: 1034874

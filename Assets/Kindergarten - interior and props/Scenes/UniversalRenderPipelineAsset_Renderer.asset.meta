@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc36e1953def1e944ac1ee28769c32b8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142002
+  packageName: Kindergarten - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Kindergarten - interior and props/Scenes/UniversalRenderPipelineAsset_Renderer.asset
+  uploadId: 616569

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9ecbb82414795aeacf8fbe616d9303c0
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Layouts/Materials.json
+  uploadId: 1034874

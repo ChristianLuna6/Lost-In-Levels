@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3d722c1682fc68ea6db7dec1d3ffe98d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Prefabs/Signage/SM_QUE_Plaque.prefab
+  uploadId: 1034874

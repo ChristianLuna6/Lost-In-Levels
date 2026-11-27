@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6be0866f1d26d4a4c80a305cb7736666
+timeCreated: 1552564546
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142002
+  packageName: Kindergarten - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Kindergarten - interior and props/Models/Materials/border.mat
+  uploadId: 616569

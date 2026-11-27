@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: de7484a714f258342a0d78a3e5372bff
+timeCreated: 1552487240
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142002
+  packageName: Kindergarten - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Kindergarten - interior and props/Models/Materials/pool.mat
+  uploadId: 616569

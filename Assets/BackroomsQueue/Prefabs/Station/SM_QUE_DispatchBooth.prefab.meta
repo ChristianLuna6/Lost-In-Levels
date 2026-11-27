@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3649b33b01ce85d2c58d27754f6006db
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Prefabs/Station/SM_QUE_DispatchBooth.prefab
+  uploadId: 1034874

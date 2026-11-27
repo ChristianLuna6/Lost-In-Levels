@@ -1,0 +1,1182 @@
+{
+"assets": [
+{
+"name": "SM_QUE_Barrel",
+"category": "Dressing",
+"tris": 1240,
+"dims": [
+0.64,
+0.64,
+0.9
+],
+"materials": [
+"M_QUE_WoodPlank",
+"M_QUE_Paint_Black"
+]
+},
+{
+"name": "SM_QUE_Bench",
+"category": "Dressing",
+"tris": 692,
+"dims": [
+1.8,
+0.5,
+0.886
+],
+"materials": [
+"M_QUE_Paint_Black",
+"M_QUE_WoodPlank"
+]
+},
+{
+"name": "SM_QUE_Board_RideRules",
+"category": "Signage",
+"tris": 14,
+"dims": [
+0.88,
+0.051,
+0.88
+],
+"materials": [
+"M_QUE_Paint_Gold",
+"M_QUE_Atlas"
+]
+},
+{
+"name": "SM_QUE_Boat_Blue",
+"category": "Station",
+"tris": 2904,
+"dims": [
+3.436,
+1.68,
+0.82
+],
+"materials": [
+"M_QUE_Boat_Blue",
+"M_QUE_Paint_Charcoal",
+"M_QUE_RubberMat",
+"M_QUE_Rubber",
+"M_QUE_Vinyl_Navy",
+"M_QUE_Stainless",
+"M_QUE_Atlas"
+]
+},
+{
+"name": "SM_QUE_Boat_Blue_LOD1",
+"category": "LOD1",
+"tris": 1161,
+"dims": [
+3.436,
+1.68,
+0.82
+],
+"materials": [
+"M_QUE_Boat_Blue",
+"M_QUE_Paint_Charcoal",
+"M_QUE_RubberMat",
+"M_QUE_Rubber",
+"M_QUE_Vinyl_Navy",
+"M_QUE_Stainless",
+"M_QUE_Atlas"
+]
+},
+{
+"name": "SM_QUE_Boat_Red",
+"category": "Station",
+"tris": 2904,
+"dims": [
+3.436,
+1.68,
+0.82
+],
+"materials": [
+"M_QUE_Boat_Red",
+"M_QUE_Paint_Charcoal",
+"M_QUE_RubberMat",
+"M_QUE_Rubber",
+"M_QUE_Vinyl_Navy",
+"M_QUE_Stainless",
+"M_QUE_Atlas"
+]
+},
+{
+"name": "SM_QUE_Boat_Red_LOD1",
+"category": "LOD1",
+"tris": 1161,
+"dims": [
+3.436,
+1.68,
+0.82
+],
+"materials": [
+"M_QUE_Boat_Red",
+"M_QUE_Paint_Charcoal",
+"M_QUE_RubberMat",
+"M_QUE_Rubber",
+"M_QUE_Vinyl_Navy",
+"M_QUE_Stainless",
+"M_QUE_Atlas"
+]
+},
+{
+"name": "SM_QUE_Column",
+"category": "Architecture",
+"tris": 3456,
+"dims": [
+0.52,
+0.52,
+5.8
+],
+"materials": [
+"M_QUE_Paint_Grey",
+"M_QUE_Rail_Galvanized",
+"M_QUE_Paint_Green",
+"M_QUE_Paint_Gold"
+]
+},
+{
+"name": "SM_QUE_Crate",
+"category": "Dressing",
+"tris": 728,
+"dims": [
+0.816,
+0.616,
+0.6
+],
+"materials": [
+"M_QUE_WoodPlank"
+]
+},
+{
+"name": "SM_QUE_Decal_Arrow",
+"category": "Dressing",
+"tris": 2,
+"dims": [
+0.5,
+0.5,
+0.0
+],
+"materials": [
+"M_QUE_Atlas"
+]
+},
+{
+"name": "SM_QUE_Decal_WaitHere",
+"category": "Dressing",
+"tris": 2,
+"dims": [
+1.0,
+0.5,
+0.0
+],
+"materials": [
+"M_QUE_Atlas"
+]
+},
+{
+"name": "SM_QUE_DispatchBooth",
+"category": "Station",
+"tris": 1220,
+"dims": [
+2.198,
+2.298,
+3.34
+],
+"materials": [
+"M_QUE_CastleStone",
+"M_QUE_WoodPlank",
+"M_QUE_Glass",
+"M_QUE_RoofShingle",
+"M_QUE_Paint_Gold",
+"M_QUE_Paint_Charcoal",
+"M_QUE_Atlas_Lit"
+]
+},
+{
+"name": "SM_QUE_FireExtinguisher",
+"category": "Dressing",
+"tris": 640,
+"dims": [
+0.189,
+0.2,
+0.57
+],
+"materials": [
+"M_QUE_Paint_Black",
+"M_QUE_Paint_Red",
+"M_QUE_Chrome",
+"M_QUE_Rubber"
+]
+},
+{
+"name": "SM_QUE_Floor_4m",
+"category": "Architecture",
+"tris": 2,
+"dims": [
+4.0,
+4.0,
+0.0
+],
+"materials": [
+"M_QUE_Floor"
+]
+},
+{
+"name": "SM_QUE_Flume_4m",
+"category": "Station",
+"tris": 224,
+"dims": [
+4.0,
+2.5,
+0.45
+],
+"materials": [
+"M_QUE_Water",
+"M_QUE_CastleStone",
+"M_QUE_WoodPlank",
+"M_QUE_Paint_Grey",
+"M_QUE_Paint_Charcoal"
+]
+},
+{
+"name": "SM_QUE_HeightCheck",
+"category": "Signage",
+"tris": 244,
+"dims": [
+0.4,
+0.4,
+1.68
+],
+"materials": [
+"M_QUE_Paint_Black",
+"M_QUE_Paint_Gold",
+"M_QUE_Atlas"
+]
+},
+{
+"name": "SM_QUE_LampPost",
+"category": "Dressing",
+"tris": 1036,
+"dims": [
+0.32,
+0.597,
+2.7
+],
+"materials": [
+"M_QUE_Paint_Black",
+"M_QUE_Glass",
+"M_QUE_Bulb_Warm"
+]
+},
+{
+"name": "SM_QUE_Light_Strip",
+"category": "Ceiling",
+"tris": 200,
+"dims": [
+2.4,
+0.22,
+0.502
+],
+"materials": [
+"M_QUE_Plastic_White",
+"M_QUE_FluorescentTube",
+"M_QUE_Rail_Galvanized"
+]
+},
+{
+"name": "SM_QUE_Light_Strip_Off",
+"category": "Ceiling",
+"tris": 200,
+"dims": [
+2.4,
+0.22,
+0.502
+],
+"materials": [
+"M_QUE_Plastic_White",
+"M_QUE_FluorescentTube_Off",
+"M_QUE_Rail_Galvanized"
+]
+},
+{
+"name": "SM_QUE_MistingFan",
+"category": "Dressing",
+"tris": 3576,
+"dims": [
+0.855,
+0.715,
+2.07
+],
+"materials": [
+"M_QUE_Paint_Black",
+"M_QUE_Stainless",
+"M_QUE_Chrome",
+"M_QUE_Plastic_White",
+"M_QUE_Rubber"
+]
+},
+{
+"name": "SM_QUE_Pennants_8m",
+"category": "Ceiling",
+"tris": 364,
+"dims": [
+8.001,
+0.006,
+0.861
+],
+"materials": [
+"M_QUE_Rubber",
+"M_QUE_Atlas"
+]
+},
+{
+"name": "SM_QUE_Plaque",
+"category": "Signage",
+"tris": 14,
+"dims": [
+0.88,
+0.051,
+0.48
+],
+"materials": [
+"M_QUE_Paint_Gold",
+"M_QUE_Atlas"
+]
+},
+{
+"name": "SM_QUE_Platform_4m_Gates1-2",
+"category": "Station",
+"tris": 1018,
+"dims": [
+4.075,
+3.04,
+1.79
+],
+"materials": [
+"M_QUE_RubberMat",
+"M_QUE_Paint_Charcoal",
+"M_QUE_Paint_Yellow",
+"M_QUE_Stainless",
+"M_QUE_Rail_Galvanized",
+"M_QUE_Paint_Grey",
+"M_QUE_Atlas"
+]
+},
+{
+"name": "SM_QUE_Platform_4m_Gates3-4",
+"category": "Station",
+"tris": 1018,
+"dims": [
+4.075,
+3.04,
+1.79
+],
+"materials": [
+"M_QUE_RubberMat",
+"M_QUE_Paint_Charcoal",
+"M_QUE_Paint_Yellow",
+"M_QUE_Stainless",
+"M_QUE_Rail_Galvanized",
+"M_QUE_Paint_Grey",
+"M_QUE_Atlas"
+]
+},
+{
+"name": "SM_QUE_Platform_4m_Gates5-6",
+"category": "Station",
+"tris": 1018,
+"dims": [
+4.075,
+3.04,
+1.79
+],
+"materials": [
+"M_QUE_RubberMat",
+"M_QUE_Paint_Charcoal",
+"M_QUE_Paint_Yellow",
+"M_QUE_Stainless",
+"M_QUE_Rail_Galvanized",
+"M_QUE_Paint_Grey",
+"M_QUE_Atlas"
+]
+},
+{
+"name": "SM_QUE_Platform_4m_Gates7-8",
+"category": "Station",
+"tris": 1018,
+"dims": [
+4.075,
+3.04,
+1.79
+],
+"materials": [
+"M_QUE_RubberMat",
+"M_QUE_Paint_Charcoal",
+"M_QUE_Paint_Yellow",
+"M_QUE_Stainless",
+"M_QUE_Rail_Galvanized",
+"M_QUE_Paint_Grey",
+"M_QUE_Atlas"
+]
+},
+{
+"name": "SM_QUE_PosterCase_0",
+"category": "Signage",
+"tris": 16,
+"dims": [
+0.8,
+0.056,
+1.08
+],
+"materials": [
+"M_QUE_Paint_Gold",
+"M_QUE_Atlas_Lit",
+"M_QUE_Glass"
+]
+},
+{
+"name": "SM_QUE_PosterCase_1",
+"category": "Signage",
+"tris": 16,
+"dims": [
+0.8,
+0.056,
+1.08
+],
+"materials": [
+"M_QUE_Paint_Gold",
+"M_QUE_Atlas_Lit",
+"M_QUE_Glass"
+]
+},
+{
+"name": "SM_QUE_PosterCase_2",
+"category": "Signage",
+"tris": 16,
+"dims": [
+0.8,
+0.056,
+1.08
+],
+"materials": [
+"M_QUE_Paint_Gold",
+"M_QUE_Atlas_Lit",
+"M_QUE_Glass"
+]
+},
+{
+"name": "SM_QUE_PosterCase_3",
+"category": "Signage",
+"tris": 16,
+"dims": [
+0.8,
+0.056,
+1.08
+],
+"materials": [
+"M_QUE_Paint_Gold",
+"M_QUE_Atlas_Lit",
+"M_QUE_Glass"
+]
+},
+{
+"name": "SM_QUE_Rail_1m",
+"category": "Rails",
+"tris": 472,
+"dims": [
+1.075,
+0.15,
+1.024
+],
+"materials": [
+"M_QUE_Rail_Galvanized"
+]
+},
+{
+"name": "SM_QUE_Rail_2m",
+"category": "Rails",
+"tris": 472,
+"dims": [
+2.075,
+0.15,
+1.024
+],
+"materials": [
+"M_QUE_Rail_Galvanized"
+]
+},
+{
+"name": "SM_QUE_Rail_4m",
+"category": "Rails",
+"tris": 880,
+"dims": [
+4.075,
+0.15,
+1.024
+],
+"materials": [
+"M_QUE_Rail_Galvanized"
+]
+},
+{
+"name": "SM_QUE_Rail_End",
+"category": "Rails",
+"tris": 648,
+"dims": [
+2.075,
+0.15,
+1.024
+],
+"materials": [
+"M_QUE_Rail_Galvanized"
+]
+},
+{
+"name": "SM_QUE_Rail_Post",
+"category": "Rails",
+"tris": 408,
+"dims": [
+0.15,
+0.15,
+1.0
+],
+"materials": [
+"M_QUE_Rail_Galvanized"
+]
+},
+{
+"name": "SM_QUE_Rail_UTurn_1m",
+"category": "Rails",
+"tris": 1400,
+"dims": [
+0.577,
+1.048,
+1.024
+],
+"materials": [
+"M_QUE_Rail_Galvanized"
+]
+},
+{
+"name": "SM_QUE_RecycleCan",
+"category": "Dressing",
+"tris": 3048,
+"dims": [
+0.6,
+0.6,
+1.1
+],
+"materials": [
+"M_QUE_Paint_Green",
+"M_QUE_Paint_Gold",
+"M_QUE_Paint_Black",
+"M_QUE_Atlas"
+]
+},
+{
+"name": "SM_QUE_RecycleCan_LOD1",
+"category": "LOD1",
+"tris": 1219,
+"dims": [
+0.6,
+0.6,
+1.1
+],
+"materials": [
+"M_QUE_Paint_Green",
+"M_QUE_Paint_Gold",
+"M_QUE_Paint_Black",
+"M_QUE_Atlas"
+]
+},
+{
+"name": "SM_QUE_RideLockers",
+"category": "Dressing",
+"tris": 3882,
+"dims": [
+2.4,
+0.62,
+1.88
+],
+"materials": [
+"M_QUE_Paint_Charcoal",
+"M_QUE_Paint_Green",
+"M_QUE_Chrome",
+"M_QUE_Paint_Black",
+"M_QUE_Atlas_Lit",
+"M_QUE_Plastic_Dark"
+]
+},
+{
+"name": "SM_QUE_RideLockers_LOD1",
+"category": "LOD1",
+"tris": 1552,
+"dims": [
+2.399,
+0.618,
+1.878
+],
+"materials": [
+"M_QUE_Paint_Charcoal",
+"M_QUE_Paint_Green",
+"M_QUE_Chrome",
+"M_QUE_Paint_Black",
+"M_QUE_Atlas_Lit",
+"M_QUE_Plastic_Dark"
+]
+},
+{
+"name": "SM_QUE_RoofTruss_4m",
+"category": "Architecture",
+"tris": 272,
+"dims": [
+0.06,
+4.12,
+0.6
+],
+"materials": [
+"M_QUE_Paint_Grey"
+]
+},
+{
+"name": "SM_QUE_Roof_4m",
+"category": "Architecture",
+"tris": 34,
+"dims": [
+4.0,
+4.0,
+0.2
+],
+"materials": [
+"M_QUE_DeckGrey",
+"M_QUE_Paint_Grey"
+]
+},
+{
+"name": "SM_QUE_SecurityCam",
+"category": "Ceiling",
+"tris": 264,
+"dims": [
+0.18,
+0.18,
+0.12
+],
+"materials": [
+"M_QUE_Plastic_White",
+"M_QUE_Glass_Dark"
+]
+},
+{
+"name": "SM_QUE_Sign_Express",
+"category": "Signage",
+"tris": 344,
+"dims": [
+0.64,
+0.44,
+1.46
+],
+"materials": [
+"M_QUE_Paint_Black",
+"M_QUE_Paint_Gold",
+"M_QUE_Atlas"
+]
+},
+{
+"name": "SM_QUE_Sign_KeepMoving",
+"category": "Signage",
+"tris": 108,
+"dims": [
+0.6,
+0.064,
+0.28
+],
+"materials": [
+"M_QUE_Plastic_White",
+"M_QUE_Atlas",
+"M_QUE_Rail_Galvanized"
+]
+},
+{
+"name": "SM_QUE_Sign_LineStarts",
+"category": "Signage",
+"tris": 344,
+"dims": [
+0.74,
+0.44,
+1.42
+],
+"materials": [
+"M_QUE_Paint_Black",
+"M_QUE_Paint_Gold",
+"M_QUE_Atlas"
+]
+},
+{
+"name": "SM_QUE_Sign_NoLineJumping",
+"category": "Signage",
+"tris": 108,
+"dims": [
+0.7,
+0.064,
+0.29
+],
+"materials": [
+"M_QUE_Plastic_White",
+"M_QUE_Atlas",
+"M_QUE_Rail_Galvanized"
+]
+},
+{
+"name": "SM_QUE_Sign_QueueMap",
+"category": "Signage",
+"tris": 344,
+"dims": [
+0.64,
+0.44,
+1.52
+],
+"materials": [
+"M_QUE_Paint_Black",
+"M_QUE_Paint_Gold",
+"M_QUE_Atlas"
+]
+},
+{
+"name": "SM_QUE_Sign_ThisWay",
+"category": "Signage",
+"tris": 14,
+"dims": [
+0.84,
+0.051,
+0.24
+],
+"materials": [
+"M_QUE_Paint_Gold",
+"M_QUE_Atlas"
+]
+},
+{
+"name": "SM_QUE_Sign_Wait_120",
+"category": "Signage",
+"tris": 108,
+"dims": [
+0.5,
+0.064,
+0.43
+],
+"materials": [
+"M_QUE_Plastic_White",
+"M_QUE_Atlas",
+"M_QUE_Rail_Galvanized"
+]
+},
+{
+"name": "SM_QUE_Sign_Wait_15",
+"category": "Signage",
+"tris": 108,
+"dims": [
+0.5,
+0.064,
+0.43
+],
+"materials": [
+"M_QUE_Plastic_White",
+"M_QUE_Atlas",
+"M_QUE_Rail_Galvanized"
+]
+},
+{
+"name": "SM_QUE_Sign_Wait_30",
+"category": "Signage",
+"tris": 108,
+"dims": [
+0.5,
+0.064,
+0.43
+],
+"materials": [
+"M_QUE_Plastic_White",
+"M_QUE_Atlas",
+"M_QUE_Rail_Galvanized"
+]
+},
+{
+"name": "SM_QUE_Sign_Wait_45",
+"category": "Signage",
+"tris": 108,
+"dims": [
+0.5,
+0.064,
+0.43
+],
+"materials": [
+"M_QUE_Plastic_White",
+"M_QUE_Atlas",
+"M_QUE_Rail_Galvanized"
+]
+},
+{
+"name": "SM_QUE_Sign_Wait_60",
+"category": "Signage",
+"tris": 108,
+"dims": [
+0.5,
+0.064,
+0.43
+],
+"materials": [
+"M_QUE_Plastic_White",
+"M_QUE_Atlas",
+"M_QUE_Rail_Galvanized"
+]
+},
+{
+"name": "SM_QUE_Sign_Wait_90",
+"category": "Signage",
+"tris": 108,
+"dims": [
+0.5,
+0.064,
+0.43
+],
+"materials": [
+"M_QUE_Plastic_White",
+"M_QUE_Atlas",
+"M_QUE_Rail_Galvanized"
+]
+},
+{
+"name": "SM_QUE_Speaker",
+"category": "Ceiling",
+"tris": 228,
+"dims": [
+0.33,
+0.403,
+0.85
+],
+"materials": [
+"M_QUE_Paint_Black",
+"M_QUE_Plastic_Dark",
+"M_QUE_Rubber"
+]
+},
+{
+"name": "SM_QUE_Stanchion_Belt",
+"category": "Rails",
+"tris": 1056,
+"dims": [
+2.14,
+0.34,
+1.0
+],
+"materials": [
+"M_QUE_Chrome",
+"M_QUE_Plastic_Dark"
+]
+},
+{
+"name": "SM_QUE_Station_Facade_12m",
+"category": "Station",
+"tris": 4198,
+"dims": [
+14.34,
+1.94,
+6.54
+],
+"materials": [
+"M_QUE_CastleStone",
+"M_QUE_Void",
+"M_QUE_Paint_Gold",
+"M_QUE_Atlas",
+"M_QUE_Paint_Black",
+"M_QUE_Atlas_Lit",
+"M_QUE_RoofShingle",
+"M_QUE_Paint_Red",
+"M_QUE_Glass",
+"M_QUE_Bulb_Warm"
+]
+},
+{
+"name": "SM_QUE_Station_Facade_12m_LOD1",
+"category": "LOD1",
+"tris": 1679,
+"dims": [
+14.34,
+1.94,
+6.54
+],
+"materials": [
+"M_QUE_CastleStone",
+"M_QUE_Void",
+"M_QUE_Paint_Gold",
+"M_QUE_Atlas",
+"M_QUE_Paint_Black",
+"M_QUE_Atlas_Lit",
+"M_QUE_RoofShingle",
+"M_QUE_Paint_Red",
+"M_QUE_Glass",
+"M_QUE_Bulb_Warm"
+]
+},
+{
+"name": "SM_QUE_TV_Hung_NoSignal",
+"category": "Ceiling",
+"tris": 174,
+"dims": [
+0.592,
+0.544,
+1.291
+],
+"materials": [
+"M_QUE_Paint_Black",
+"M_QUE_Paint_Charcoal",
+"M_QUE_Atlas_Lit"
+]
+},
+{
+"name": "SM_QUE_TV_Hung_SafetyVideo",
+"category": "Ceiling",
+"tris": 174,
+"dims": [
+0.592,
+0.544,
+1.291
+],
+"materials": [
+"M_QUE_Paint_Black",
+"M_QUE_Paint_Charcoal",
+"M_QUE_Atlas_Lit"
+]
+},
+{
+"name": "SM_QUE_TV_Hung_Static",
+"category": "Ceiling",
+"tris": 174,
+"dims": [
+0.592,
+0.544,
+1.291
+],
+"materials": [
+"M_QUE_Paint_Black",
+"M_QUE_Paint_Charcoal",
+"M_QUE_Atlas_Lit"
+]
+},
+{
+"name": "SM_QUE_TV_Hung_WaitScreen",
+"category": "Ceiling",
+"tris": 174,
+"dims": [
+0.592,
+0.544,
+1.291
+],
+"materials": [
+"M_QUE_Paint_Black",
+"M_QUE_Paint_Charcoal",
+"M_QUE_Atlas_Lit"
+]
+},
+{
+"name": "SM_QUE_TrashCan",
+"category": "Dressing",
+"tris": 3048,
+"dims": [
+0.6,
+0.6,
+1.1
+],
+"materials": [
+"M_QUE_Paint_Green",
+"M_QUE_Paint_Gold",
+"M_QUE_Paint_Black",
+"M_QUE_Atlas"
+]
+},
+{
+"name": "SM_QUE_TrashCan_LOD1",
+"category": "LOD1",
+"tris": 1219,
+"dims": [
+0.6,
+0.6,
+1.1
+],
+"materials": [
+"M_QUE_Paint_Green",
+"M_QUE_Paint_Gold",
+"M_QUE_Paint_Black",
+"M_QUE_Atlas"
+]
+},
+{
+"name": "SM_QUE_Turnstile",
+"category": "Station",
+"tris": 374,
+"dims": [
+0.734,
+0.8,
+1.144
+],
+"materials": [
+"M_QUE_Stainless"
+]
+},
+{
+"name": "SM_QUE_Wall_4m_A",
+"category": "Architecture",
+"tris": 88,
+"dims": [
+4.0,
+0.36,
+6.0
+],
+"materials": [
+"M_QUE_Rubber",
+"M_QUE_Wainscot",
+"M_QUE_Mural",
+"M_QUE_Paint_Charcoal",
+"M_QUE_Paint_Gold"
+]
+},
+{
+"name": "SM_QUE_Wall_4m_B",
+"category": "Architecture",
+"tris": 88,
+"dims": [
+4.0,
+0.36,
+6.0
+],
+"materials": [
+"M_QUE_Rubber",
+"M_QUE_Wainscot",
+"M_QUE_Mural",
+"M_QUE_Paint_Charcoal",
+"M_QUE_Paint_Gold"
+]
+},
+{
+"name": "SM_QUE_Wall_4m_C",
+"category": "Architecture",
+"tris": 88,
+"dims": [
+4.0,
+0.36,
+6.0
+],
+"materials": [
+"M_QUE_Rubber",
+"M_QUE_Wainscot",
+"M_QUE_Mural",
+"M_QUE_Paint_Charcoal",
+"M_QUE_Paint_Gold"
+]
+},
+{
+"name": "SM_QUE_Wall_4m_D",
+"category": "Architecture",
+"tris": 88,
+"dims": [
+4.0,
+0.36,
+6.0
+],
+"materials": [
+"M_QUE_Rubber",
+"M_QUE_Wainscot",
+"M_QUE_Mural",
+"M_QUE_Paint_Charcoal",
+"M_QUE_Paint_Gold"
+]
+},
+{
+"name": "SM_QUE_Wall_4m_Exit",
+"category": "Architecture",
+"tris": 286,
+"dims": [
+4.0,
+0.36,
+6.0
+],
+"materials": [
+"M_QUE_Rubber",
+"M_QUE_Wainscot",
+"M_QUE_Mural",
+"M_QUE_Paint_Charcoal",
+"M_QUE_Paint_Gold",
+"M_QUE_Paint_Green",
+"M_QUE_Stainless",
+"M_QUE_Paint_Black",
+"M_QUE_Paint_Grey",
+"M_QUE_Atlas_Lit"
+]
+},
+{
+"name": "SM_QUE_Wall_Archway_8m",
+"category": "Architecture",
+"tris": 1366,
+"dims": [
+8.0,
+0.642,
+6.12
+],
+"materials": [
+"M_QUE_Rubber",
+"M_QUE_Wainscot",
+"M_QUE_Mural",
+"M_QUE_Paint_Charcoal",
+"M_QUE_Paint_Gold",
+"M_QUE_CastleStone",
+"M_QUE_Paint_Black",
+"M_QUE_Glass",
+"M_QUE_Bulb_Warm"
+]
+},
+{
+"name": "SM_QUE_Wall_CornerColumn",
+"category": "Architecture",
+"tris": 16,
+"dims": [
+0.52,
+0.52,
+6.0
+],
+"materials": [
+"M_QUE_Paint_Charcoal",
+"M_QUE_Rubber"
+]
+},
+{
+"name": "SM_QUE_WaterFountain",
+"category": "Dressing",
+"tris": 852,
+"dims": [
+0.5,
+0.51,
+0.9
+],
+"materials": [
+"M_QUE_Paint_Green",
+"M_QUE_Stainless",
+"M_QUE_Chrome"
+]
+},
+{
+"name": "SM_QUE_WetFloorSign",
+"category": "Dressing",
+"tris": 52,
+"dims": [
+0.3,
+0.312,
+0.603
+],
+"materials": [
+"M_QUE_Paint_Yellow",
+"M_QUE_Atlas",
+"M_QUE_Void"
+]
+}
+]
+}

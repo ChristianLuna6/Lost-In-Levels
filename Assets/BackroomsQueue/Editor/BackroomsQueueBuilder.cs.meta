@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 443ada5ab7b9fef04de8d8eb3fcd04f7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Editor/BackroomsQueueBuilder.cs
+  uploadId: 1034874

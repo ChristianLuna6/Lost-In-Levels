@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4fc8f46c362e3ff468a31cd72d0838d5
+timeCreated: 1552487862
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142002
+  packageName: Kindergarten - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Kindergarten - interior and props/Models/Prefabs/slide.prefab
+  uploadId: 616569

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 44fe19ec0419ab87599ff722fe4fbe16
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Prefabs/Signage/SM_QUE_Sign_Wait_120.prefab
+  uploadId: 1034874

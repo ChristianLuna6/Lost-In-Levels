@@ -1,0 +1,76 @@
+Asset,Category,Triangles,Size X (m),Size Y (m),Size Z (m),Materials
+SM_QUE_Column,Queue hall architecture,3456,0.52,0.52,5.8,M_QUE_Paint_Grey M_QUE_Rail_Galvanized M_QUE_Paint_Green M_QUE_Paint_Gold
+SM_QUE_Floor_4m,Queue hall architecture,2,4.0,4.0,0.0,M_QUE_Floor
+SM_QUE_RoofTruss_4m,Queue hall architecture,272,0.06,4.12,0.6,M_QUE_Paint_Grey
+SM_QUE_Roof_4m,Queue hall architecture,34,4.0,4.0,0.2,M_QUE_DeckGrey M_QUE_Paint_Grey
+SM_QUE_Wall_4m_A,Queue hall architecture,88,4.0,0.36,6.0,M_QUE_Rubber M_QUE_Wainscot M_QUE_Mural M_QUE_Paint_Charcoal M_QUE_Paint_Gold
+SM_QUE_Wall_4m_B,Queue hall architecture,88,4.0,0.36,6.0,M_QUE_Rubber M_QUE_Wainscot M_QUE_Mural M_QUE_Paint_Charcoal M_QUE_Paint_Gold
+SM_QUE_Wall_4m_C,Queue hall architecture,88,4.0,0.36,6.0,M_QUE_Rubber M_QUE_Wainscot M_QUE_Mural M_QUE_Paint_Charcoal M_QUE_Paint_Gold
+SM_QUE_Wall_4m_D,Queue hall architecture,88,4.0,0.36,6.0,M_QUE_Rubber M_QUE_Wainscot M_QUE_Mural M_QUE_Paint_Charcoal M_QUE_Paint_Gold
+SM_QUE_Wall_4m_Exit,Queue hall architecture,286,4.0,0.36,6.0,M_QUE_Rubber M_QUE_Wainscot M_QUE_Mural M_QUE_Paint_Charcoal M_QUE_Paint_Gold M_QUE_Paint_Green M_QUE_Stainless M_QUE_Paint_Black M_QUE_Paint_Grey M_QUE_Atlas_Lit
+SM_QUE_Wall_Archway_8m,Queue hall architecture,1366,8.0,0.642,6.12,M_QUE_Rubber M_QUE_Wainscot M_QUE_Mural M_QUE_Paint_Charcoal M_QUE_Paint_Gold M_QUE_CastleStone M_QUE_Paint_Black M_QUE_Glass M_QUE_Bulb_Warm
+SM_QUE_Wall_CornerColumn,Queue hall architecture,16,0.52,0.52,6.0,M_QUE_Paint_Charcoal M_QUE_Rubber
+SM_QUE_Rail_1m,Queue rails & stanchions,472,1.075,0.15,1.024,M_QUE_Rail_Galvanized
+SM_QUE_Rail_2m,Queue rails & stanchions,472,2.075,0.15,1.024,M_QUE_Rail_Galvanized
+SM_QUE_Rail_4m,Queue rails & stanchions,880,4.075,0.15,1.024,M_QUE_Rail_Galvanized
+SM_QUE_Rail_End,Queue rails & stanchions,648,2.075,0.15,1.024,M_QUE_Rail_Galvanized
+SM_QUE_Rail_Post,Queue rails & stanchions,408,0.15,0.15,1.0,M_QUE_Rail_Galvanized
+SM_QUE_Rail_UTurn_1m,Queue rails & stanchions,1400,0.577,1.048,1.024,M_QUE_Rail_Galvanized
+SM_QUE_Stanchion_Belt,Queue rails & stanchions,1056,2.14,0.34,1.0,M_QUE_Chrome M_QUE_Plastic_Dark
+SM_QUE_Boat_Blue,"Ride station, flume & boats",2904,3.436,1.68,0.82,M_QUE_Boat_Blue M_QUE_Paint_Charcoal M_QUE_RubberMat M_QUE_Rubber M_QUE_Vinyl_Navy M_QUE_Stainless M_QUE_Atlas
+SM_QUE_Boat_Red,"Ride station, flume & boats",2904,3.436,1.68,0.82,M_QUE_Boat_Red M_QUE_Paint_Charcoal M_QUE_RubberMat M_QUE_Rubber M_QUE_Vinyl_Navy M_QUE_Stainless M_QUE_Atlas
+SM_QUE_DispatchBooth,"Ride station, flume & boats",1220,2.198,2.298,3.34,M_QUE_CastleStone M_QUE_WoodPlank M_QUE_Glass M_QUE_RoofShingle M_QUE_Paint_Gold M_QUE_Paint_Charcoal M_QUE_Atlas_Lit
+SM_QUE_Flume_4m,"Ride station, flume & boats",224,4.0,2.5,0.45,M_QUE_Water M_QUE_CastleStone M_QUE_WoodPlank M_QUE_Paint_Grey M_QUE_Paint_Charcoal
+SM_QUE_Platform_4m_Gates1-2,"Ride station, flume & boats",1018,4.075,3.04,1.79,M_QUE_RubberMat M_QUE_Paint_Charcoal M_QUE_Paint_Yellow M_QUE_Stainless M_QUE_Rail_Galvanized M_QUE_Paint_Grey M_QUE_Atlas
+SM_QUE_Platform_4m_Gates3-4,"Ride station, flume & boats",1018,4.075,3.04,1.79,M_QUE_RubberMat M_QUE_Paint_Charcoal M_QUE_Paint_Yellow M_QUE_Stainless M_QUE_Rail_Galvanized M_QUE_Paint_Grey M_QUE_Atlas
+SM_QUE_Platform_4m_Gates5-6,"Ride station, flume & boats",1018,4.075,3.04,1.79,M_QUE_RubberMat M_QUE_Paint_Charcoal M_QUE_Paint_Yellow M_QUE_Stainless M_QUE_Rail_Galvanized M_QUE_Paint_Grey M_QUE_Atlas
+SM_QUE_Platform_4m_Gates7-8,"Ride station, flume & boats",1018,4.075,3.04,1.79,M_QUE_RubberMat M_QUE_Paint_Charcoal M_QUE_Paint_Yellow M_QUE_Stainless M_QUE_Rail_Galvanized M_QUE_Paint_Grey M_QUE_Atlas
+SM_QUE_Station_Facade_12m,"Ride station, flume & boats",4198,14.34,1.94,6.54,M_QUE_CastleStone M_QUE_Void M_QUE_Paint_Gold M_QUE_Atlas M_QUE_Paint_Black M_QUE_Atlas_Lit M_QUE_RoofShingle M_QUE_Paint_Red M_QUE_Glass M_QUE_Bulb_Warm
+SM_QUE_Turnstile,"Ride station, flume & boats",374,0.734,0.8,1.144,M_QUE_Stainless
+SM_QUE_Board_RideRules,Signage & wait-time signs,14,0.88,0.051,0.88,M_QUE_Paint_Gold M_QUE_Atlas
+SM_QUE_HeightCheck,Signage & wait-time signs,244,0.4,0.4,1.68,M_QUE_Paint_Black M_QUE_Paint_Gold M_QUE_Atlas
+SM_QUE_Plaque,Signage & wait-time signs,14,0.88,0.051,0.48,M_QUE_Paint_Gold M_QUE_Atlas
+SM_QUE_PosterCase_0,Signage & wait-time signs,16,0.8,0.056,1.08,M_QUE_Paint_Gold M_QUE_Atlas_Lit M_QUE_Glass
+SM_QUE_PosterCase_1,Signage & wait-time signs,16,0.8,0.056,1.08,M_QUE_Paint_Gold M_QUE_Atlas_Lit M_QUE_Glass
+SM_QUE_PosterCase_2,Signage & wait-time signs,16,0.8,0.056,1.08,M_QUE_Paint_Gold M_QUE_Atlas_Lit M_QUE_Glass
+SM_QUE_PosterCase_3,Signage & wait-time signs,16,0.8,0.056,1.08,M_QUE_Paint_Gold M_QUE_Atlas_Lit M_QUE_Glass
+SM_QUE_Sign_Express,Signage & wait-time signs,344,0.64,0.44,1.46,M_QUE_Paint_Black M_QUE_Paint_Gold M_QUE_Atlas
+SM_QUE_Sign_KeepMoving,Signage & wait-time signs,108,0.6,0.064,0.28,M_QUE_Plastic_White M_QUE_Atlas M_QUE_Rail_Galvanized
+SM_QUE_Sign_LineStarts,Signage & wait-time signs,344,0.74,0.44,1.42,M_QUE_Paint_Black M_QUE_Paint_Gold M_QUE_Atlas
+SM_QUE_Sign_NoLineJumping,Signage & wait-time signs,108,0.7,0.064,0.29,M_QUE_Plastic_White M_QUE_Atlas M_QUE_Rail_Galvanized
+SM_QUE_Sign_QueueMap,Signage & wait-time signs,344,0.64,0.44,1.52,M_QUE_Paint_Black M_QUE_Paint_Gold M_QUE_Atlas
+SM_QUE_Sign_ThisWay,Signage & wait-time signs,14,0.84,0.051,0.24,M_QUE_Paint_Gold M_QUE_Atlas
+SM_QUE_Sign_Wait_120,Signage & wait-time signs,108,0.5,0.064,0.43,M_QUE_Plastic_White M_QUE_Atlas M_QUE_Rail_Galvanized
+SM_QUE_Sign_Wait_15,Signage & wait-time signs,108,0.5,0.064,0.43,M_QUE_Plastic_White M_QUE_Atlas M_QUE_Rail_Galvanized
+SM_QUE_Sign_Wait_30,Signage & wait-time signs,108,0.5,0.064,0.43,M_QUE_Plastic_White M_QUE_Atlas M_QUE_Rail_Galvanized
+SM_QUE_Sign_Wait_45,Signage & wait-time signs,108,0.5,0.064,0.43,M_QUE_Plastic_White M_QUE_Atlas M_QUE_Rail_Galvanized
+SM_QUE_Sign_Wait_60,Signage & wait-time signs,108,0.5,0.064,0.43,M_QUE_Plastic_White M_QUE_Atlas M_QUE_Rail_Galvanized
+SM_QUE_Sign_Wait_90,Signage & wait-time signs,108,0.5,0.064,0.43,M_QUE_Plastic_White M_QUE_Atlas M_QUE_Rail_Galvanized
+SM_QUE_Barrel,Queue dressing,1240,0.64,0.64,0.9,M_QUE_WoodPlank M_QUE_Paint_Black
+SM_QUE_Bench,Queue dressing,692,1.8,0.5,0.886,M_QUE_Paint_Black M_QUE_WoodPlank
+SM_QUE_Crate,Queue dressing,728,0.816,0.616,0.6,M_QUE_WoodPlank
+SM_QUE_Decal_Arrow,Queue dressing,2,0.5,0.5,0.0,M_QUE_Atlas
+SM_QUE_Decal_WaitHere,Queue dressing,2,1.0,0.5,0.0,M_QUE_Atlas
+SM_QUE_FireExtinguisher,Queue dressing,640,0.189,0.2,0.57,M_QUE_Paint_Black M_QUE_Paint_Red M_QUE_Chrome M_QUE_Rubber
+SM_QUE_LampPost,Queue dressing,1036,0.32,0.597,2.7,M_QUE_Paint_Black M_QUE_Glass M_QUE_Bulb_Warm
+SM_QUE_MistingFan,Queue dressing,3576,0.855,0.715,2.07,M_QUE_Paint_Black M_QUE_Stainless M_QUE_Chrome M_QUE_Plastic_White M_QUE_Rubber
+SM_QUE_RecycleCan,Queue dressing,3048,0.6,0.6,1.1,M_QUE_Paint_Green M_QUE_Paint_Gold M_QUE_Paint_Black M_QUE_Atlas
+SM_QUE_RideLockers,Queue dressing,3882,2.4,0.62,1.88,M_QUE_Paint_Charcoal M_QUE_Paint_Green M_QUE_Chrome M_QUE_Paint_Black M_QUE_Atlas_Lit M_QUE_Plastic_Dark
+SM_QUE_TrashCan,Queue dressing,3048,0.6,0.6,1.1,M_QUE_Paint_Green M_QUE_Paint_Gold M_QUE_Paint_Black M_QUE_Atlas
+SM_QUE_WaterFountain,Queue dressing,852,0.5,0.51,0.9,M_QUE_Paint_Green M_QUE_Stainless M_QUE_Chrome
+SM_QUE_WetFloorSign,Queue dressing,52,0.3,0.312,0.603,M_QUE_Paint_Yellow M_QUE_Atlas M_QUE_Void
+SM_QUE_Light_Strip,"Ceiling rig (lights, TVs, speakers)",200,2.4,0.22,0.502,M_QUE_Plastic_White M_QUE_FluorescentTube M_QUE_Rail_Galvanized
+SM_QUE_Light_Strip_Off,"Ceiling rig (lights, TVs, speakers)",200,2.4,0.22,0.502,M_QUE_Plastic_White M_QUE_FluorescentTube_Off M_QUE_Rail_Galvanized
+SM_QUE_Pennants_8m,"Ceiling rig (lights, TVs, speakers)",364,8.001,0.006,0.861,M_QUE_Rubber M_QUE_Atlas
+SM_QUE_SecurityCam,"Ceiling rig (lights, TVs, speakers)",264,0.18,0.18,0.12,M_QUE_Plastic_White M_QUE_Glass_Dark
+SM_QUE_Speaker,"Ceiling rig (lights, TVs, speakers)",228,0.33,0.403,0.85,M_QUE_Paint_Black M_QUE_Plastic_Dark M_QUE_Rubber
+SM_QUE_TV_Hung_NoSignal,"Ceiling rig (lights, TVs, speakers)",174,0.592,0.544,1.291,M_QUE_Paint_Black M_QUE_Paint_Charcoal M_QUE_Atlas_Lit
+SM_QUE_TV_Hung_SafetyVideo,"Ceiling rig (lights, TVs, speakers)",174,0.592,0.544,1.291,M_QUE_Paint_Black M_QUE_Paint_Charcoal M_QUE_Atlas_Lit
+SM_QUE_TV_Hung_Static,"Ceiling rig (lights, TVs, speakers)",174,0.592,0.544,1.291,M_QUE_Paint_Black M_QUE_Paint_Charcoal M_QUE_Atlas_Lit
+SM_QUE_TV_Hung_WaitScreen,"Ceiling rig (lights, TVs, speakers)",174,0.592,0.544,1.291,M_QUE_Paint_Black M_QUE_Paint_Charcoal M_QUE_Atlas_Lit
+SM_QUE_Boat_Blue_LOD1,LOD1 meshes,1161,3.436,1.68,0.82,M_QUE_Boat_Blue M_QUE_Paint_Charcoal M_QUE_RubberMat M_QUE_Rubber M_QUE_Vinyl_Navy M_QUE_Stainless M_QUE_Atlas
+SM_QUE_Boat_Red_LOD1,LOD1 meshes,1161,3.436,1.68,0.82,M_QUE_Boat_Red M_QUE_Paint_Charcoal M_QUE_RubberMat M_QUE_Rubber M_QUE_Vinyl_Navy M_QUE_Stainless M_QUE_Atlas
+SM_QUE_RecycleCan_LOD1,LOD1 meshes,1219,0.6,0.6,1.1,M_QUE_Paint_Green M_QUE_Paint_Gold M_QUE_Paint_Black M_QUE_Atlas
+SM_QUE_RideLockers_LOD1,LOD1 meshes,1552,2.399,0.618,1.878,M_QUE_Paint_Charcoal M_QUE_Paint_Green M_QUE_Chrome M_QUE_Paint_Black M_QUE_Atlas_Lit M_QUE_Plastic_Dark
+SM_QUE_Station_Facade_12m_LOD1,LOD1 meshes,1679,14.34,1.94,6.54,M_QUE_CastleStone M_QUE_Void M_QUE_Paint_Gold M_QUE_Atlas M_QUE_Paint_Black M_QUE_Atlas_Lit M_QUE_RoofShingle M_QUE_Paint_Red M_QUE_Glass M_QUE_Bulb_Warm
+SM_QUE_TrashCan_LOD1,LOD1 meshes,1219,0.6,0.6,1.1,M_QUE_Paint_Green M_QUE_Paint_Gold M_QUE_Paint_Black M_QUE_Atlas

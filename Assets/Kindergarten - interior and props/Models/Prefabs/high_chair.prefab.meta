@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: eb2f83ead77ceb94bb9f1e4ca02144c1
+timeCreated: 1552487860
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142002
+  packageName: Kindergarten - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Kindergarten - interior and props/Models/Prefabs/high_chair.prefab
+  uploadId: 616569

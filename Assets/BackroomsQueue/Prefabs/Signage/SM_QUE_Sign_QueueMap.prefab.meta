@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 28089a8dbc538307ea70e9ecdd636664
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Prefabs/Signage/SM_QUE_Sign_QueueMap.prefab
+  uploadId: 1034874

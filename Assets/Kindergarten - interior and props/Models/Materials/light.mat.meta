@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ce6e012455ed41a4eae9f28497a9f101
+timeCreated: 1552565709
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142002
+  packageName: Kindergarten - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Kindergarten - interior and props/Models/Materials/light.mat
+  uploadId: 616569

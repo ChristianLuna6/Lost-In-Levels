@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd0523b31d0dcf13c6fc48c5c922e33c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Materials/M_QUE_Atlas.mat
+  uploadId: 1034874

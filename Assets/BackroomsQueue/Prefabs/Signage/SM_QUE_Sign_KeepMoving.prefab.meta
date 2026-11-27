@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c70a320e9e2319c1bce7e72123030788
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Prefabs/Signage/SM_QUE_Sign_KeepMoving.prefab
+  uploadId: 1034874

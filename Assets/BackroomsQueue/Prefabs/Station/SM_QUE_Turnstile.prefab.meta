@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a7ab0178049025a2d3bb328c6950c2d9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Prefabs/Station/SM_QUE_Turnstile.prefab
+  uploadId: 1034874

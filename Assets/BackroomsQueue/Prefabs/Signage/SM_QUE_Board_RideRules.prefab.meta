@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 55ac5f5c6f36d8e4ac45b44f874e74c8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Prefabs/Signage/SM_QUE_Board_RideRules.prefab
+  uploadId: 1034874

@@ -1,0 +1,822 @@
+{
+ "materials": [
+  {
+   "name": "M_QUE_Atlas",
+   "tex": "T_Atlas_Queue",
+   "clip": true,
+   "blend": false,
+   "emission": 0.9,
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Atlas_Lit",
+   "tex": "T_Atlas_Queue",
+   "clip": true,
+   "blend": false,
+   "emission": 3.0,
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Boat_Blue",
+   "tex": "T_QUE_BoatPaint_Blue",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Boat_Red",
+   "tex": "T_QUE_BoatPaint",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Bulb_Warm",
+   "tex": "",
+   "clip": false,
+   "blend": false,
+   "emission": 4.0,
+   "color": [
+    1.0,
+    0.8999999761581421,
+    0.699999988079071,
+    1.0
+   ],
+   "emissionColor": [
+    1.0,
+    0.7599999904632568,
+    0.46000000834465027
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.699999988079071,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_CastleStone",
+   "tex": "T_QUE_CastleStone",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Chrome",
+   "tex": "",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    0.8600000143051147,
+    0.8700000047683716,
+    0.8899999856948853,
+    1.0
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 0.8999999985098839,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_DeckGrey",
+   "tex": "T_QUE_DeckGrey",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Floor",
+   "tex": "T_QUE_Floor",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_FluorescentTube",
+   "tex": "",
+   "clip": false,
+   "blend": false,
+   "emission": 4.0,
+   "color": [
+    0.949999988079071,
+    0.9700000286102295,
+    1.0,
+    1.0
+   ],
+   "emissionColor": [
+    0.9200000166893005,
+    0.9599999785423279,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.699999988079071,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_FluorescentTube_Off",
+   "tex": "",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    0.8199999928474426,
+    0.8399999737739563,
+    0.8500000238418579,
+    1.0
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.699999988079071,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Glass",
+   "tex": "",
+   "clip": false,
+   "blend": true,
+   "emission": 0.0,
+   "color": [
+    0.8600000143051147,
+    0.8999999761581421,
+    0.8999999761581421,
+    0.18000000715255737
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.9600000008940697,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Glass_Dark",
+   "tex": "",
+   "clip": false,
+   "blend": true,
+   "emission": 0.0,
+   "color": [
+    0.019999999552965164,
+    0.02500000037252903,
+    0.029999999329447746,
+    0.75
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.9499999992549419,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Mural",
+   "tex": "T_QUE_Mural",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Paint_Black",
+   "tex": "T_Prop_PaintedMetal_Black",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Paint_Charcoal",
+   "tex": "T_Prop_PaintedMetal_Charcoal",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Paint_Gold",
+   "tex": "",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    0.7400000095367432,
+    0.5600000023841858,
+    0.27000001072883606,
+    1.0
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.8500000238418579,
+   "smoothness": 0.6200000047683716,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Paint_Green",
+   "tex": "T_Prop_PaintedMetal_RailGreen",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Paint_Grey",
+   "tex": "T_Prop_PaintedMetal_DoorGrey",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Paint_Red",
+   "tex": "T_Prop_PaintedMetal_PipeRed",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Paint_Yellow",
+   "tex": "T_Prop_PaintedMetal_Yellow2",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Plastic_Dark",
+   "tex": "T_Prop_Plastic_Dark",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Plastic_White",
+   "tex": "T_Prop_Plastic_White",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Rail_Galvanized",
+   "tex": "T_Prop_SteelGalvanized",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    1.0800000429153442,
+    1.0800000429153442,
+    1.100000023841858,
+    1.0
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_RoofShingle",
+   "tex": "T_QUE_RoofShingle",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Rubber",
+   "tex": "T_Prop_Rubber",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_RubberMat",
+   "tex": "T_QUE_RubberMat",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Stainless",
+   "tex": "T_Prop_StainlessBrushed",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Vinyl_Navy",
+   "tex": "T_Prop_Plastic_Beige",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    0.2199999988079071,
+    0.27000001072883606,
+    0.46000000834465027,
+    1.0
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Void",
+   "tex": "",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    0.004999999888241291,
+    0.004999999888241291,
+    0.004999999888241291,
+    1.0
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.0,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Wainscot",
+   "tex": "T_QUE_Wainscot",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_Water",
+   "tex": "T_QUE_Water",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  },
+  {
+   "name": "M_QUE_WoodPlank",
+   "tex": "T_Prop_WoodPlank",
+   "clip": false,
+   "blend": false,
+   "emission": 0.0,
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emissionColor": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "tiling": [
+    1,
+    1
+   ]
+  }
+ ],
+ "lods": [
+  {
+   "lod0": "SM_QUE_Boat_Blue",
+   "lod1": "SM_QUE_Boat_Blue_LOD1"
+  },
+  {
+   "lod0": "SM_QUE_Boat_Red",
+   "lod1": "SM_QUE_Boat_Red_LOD1"
+  },
+  {
+   "lod0": "SM_QUE_RecycleCan",
+   "lod1": "SM_QUE_RecycleCan_LOD1"
+  },
+  {
+   "lod0": "SM_QUE_RideLockers",
+   "lod1": "SM_QUE_RideLockers_LOD1"
+  },
+  {
+   "lod0": "SM_QUE_Station_Facade_12m",
+   "lod1": "SM_QUE_Station_Facade_12m_LOD1"
+  },
+  {
+   "lod0": "SM_QUE_TrashCan",
+   "lod1": "SM_QUE_TrashCan_LOD1"
+  }
+ ]
+}

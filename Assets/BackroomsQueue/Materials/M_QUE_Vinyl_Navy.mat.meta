@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad02b618cbecc3d81f687fb72ab90b99
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Materials/M_QUE_Vinyl_Navy.mat
+  uploadId: 1034874

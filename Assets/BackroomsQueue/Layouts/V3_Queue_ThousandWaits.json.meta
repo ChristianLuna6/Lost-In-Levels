@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 24df895fa4be2166644c3db7504032fc
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Layouts/V3_Queue_ThousandWaits.json
+  uploadId: 1034874

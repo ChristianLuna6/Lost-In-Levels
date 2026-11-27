@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1b56704aecdc9eeee693c910036f2848
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Prefabs/Architecture/SM_QUE_Wall_CornerColumn.prefab
+  uploadId: 1034874

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4e9ae7ec634d5273a860375e9293ac88
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Prefabs/Signage/SM_QUE_Sign_LineStarts.prefab
+  uploadId: 1034874

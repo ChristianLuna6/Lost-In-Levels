@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b56f89ddf04f697ced1e6662c3723134
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Prefabs/Signage/SM_QUE_HeightCheck.prefab
+  uploadId: 1034874

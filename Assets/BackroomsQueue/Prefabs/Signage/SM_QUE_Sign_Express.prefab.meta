@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ea1b4fc1a9743ab7189c68d28910b581
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Prefabs/Signage/SM_QUE_Sign_Express.prefab
+  uploadId: 1034874

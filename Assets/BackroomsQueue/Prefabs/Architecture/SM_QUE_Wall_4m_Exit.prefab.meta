@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c42bea1abb2c0b17b4d22910fe988edf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Prefabs/Architecture/SM_QUE_Wall_4m_Exit.prefab
+  uploadId: 1034874

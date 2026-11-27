@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9625dc96708e4e5be1a338d8ce20f8c0
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Documentation/Unity_Quick_Start.md
+  uploadId: 1034874

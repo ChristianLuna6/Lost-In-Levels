@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e8ca2bd144ce15044892afc2ee21b86b
+timeCreated: 1552565709
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142002
+  packageName: Kindergarten - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Kindergarten - interior and props/Models/Materials/metal.mat
+  uploadId: 616569

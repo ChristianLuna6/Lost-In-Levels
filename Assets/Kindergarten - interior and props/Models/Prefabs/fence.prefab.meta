@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f7e4650983121d348b297ec469de6fa6
+timeCreated: 1552487863
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142002
+  packageName: Kindergarten - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Kindergarten - interior and props/Models/Prefabs/fence.prefab
+  uploadId: 616569

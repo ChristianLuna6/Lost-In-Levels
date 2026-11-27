@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0f573fc93a7b52947d93e8f3d12405e9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Prefabs/Architecture/SM_QUE_Column.prefab
+  uploadId: 1034874

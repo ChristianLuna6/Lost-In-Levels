@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a764c15203b3780ccb3cf166257a2ca9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Prefabs/Station/SM_QUE_Station_Facade_12m.prefab
+  uploadId: 1034874

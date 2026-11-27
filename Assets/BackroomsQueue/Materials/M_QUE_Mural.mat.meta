@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1404cc172a75a6bf62ea3cdcb2cfa99e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Materials/M_QUE_Mural.mat
+  uploadId: 1034874

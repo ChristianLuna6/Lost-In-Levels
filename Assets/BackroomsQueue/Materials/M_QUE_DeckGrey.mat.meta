@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0572083d83d155a4d9523a37c05872b5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Materials/M_QUE_DeckGrey.mat
+  uploadId: 1034874

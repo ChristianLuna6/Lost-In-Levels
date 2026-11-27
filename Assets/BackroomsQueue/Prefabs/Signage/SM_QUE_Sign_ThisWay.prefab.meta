@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b56abf35bb304855eed51872a9c21b8d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 423554
+  packageName: BackroomsQueue
+  packageVersion: 1.0
+  assetPath: Assets/BackroomsQueue/Prefabs/Signage/SM_QUE_Sign_ThisWay.prefab
+  uploadId: 1034874
