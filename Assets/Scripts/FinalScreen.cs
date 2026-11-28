@@ -1,22 +1,22 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using TMPro;
 
 public class FinalScreen : MonoBehaviour
 {
-    public TextMeshProUGUI summaryText;   // tiempos de cada nivel y total
-    public TextMeshProUGUI recordsText;   // tabla de mejores tiempos
-    public int levelsPlayed = 2;          // cuántos niveles tiene tu juego
+    public TextMeshProUGUI summaryText;
+    public TextMeshProUGUI recordsText;
+    public int levelsPlayed = 2;
 
     void Start()
     {
+        Time.timeScale = 1f;
         Cursor.lockState = CursorLockMode.None;
         Cursor.visible = true;
 
         var timer = GameTimer.Instance;
         timer.Stop();
 
-        // Solo guarda el récord si de verdad se jugó (evita guardar 0 al probar esta escena sola)
+        // Solo guarda el récord si de verdad se jugó
         int position = -1;
         if (timer.Elapsed > 1f)
             position = GameTimer.SaveRecord(timer.Elapsed);
@@ -41,6 +41,11 @@ public class FinalScreen : MonoBehaviour
     public void PlayAgain()
     {
         GameTimer.Instance.ResetTimer();
-        SceneManager.LoadScene(0);
+        GameFlow.LoadFirstLevel();
+    }
+
+    public void ToMenu()
+    {
+        GameFlow.LoadMenu();
     }
 }

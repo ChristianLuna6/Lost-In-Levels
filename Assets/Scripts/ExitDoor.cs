@@ -5,15 +5,15 @@ public class ExitDoor : MonoBehaviour
 {
     [Header("Brillo")]
     public Light doorLight;               // luz que se enciende (apagada al inicio)
-    public GameObject glowObject;         // opcional: lámina verde (Quad) para puertas pintadas
-    public Renderer[] doorRenderers;      // opcional: partes de una puerta 3D que brillan un poco
+    public GameObject glowObject;         // lámina verde (Quad) sobre la puerta
+    public Renderer[] doorRenderers;      // opcional: partes de una puerta 3D que brillan
     public Color glowColor = new Color(0.2f, 1f, 0.3f);
     [Range(0f, 3f)]
-    public float emissionStrength = 0.6f; // qué tanto brilla la puerta 3D (0.6 = poquito)
+    public float emissionStrength = 0.6f;
 
     [Header("Llave (solo la puerta final del nivel 2)")]
-    public bool requiresKey = false;      // si está marcado, solo se abre cuando el jugador tiene la llave
-    public float loadDelay = 0.5f;        // segundos antes de pasar a la siguiente escena (con llave)
+    public bool requiresKey = false;      // si está marcado, solo abre con la llave
+    public float loadDelay = 0.5f;
 
     bool unlocked;
     bool loading;
@@ -30,7 +30,7 @@ public class ExitDoor : MonoBehaviour
 
     void Update()
     {
-        // Con llave: en cuanto la recoges, la puerta empieza a brillar
+        // Con llave: en cuanto la recoges, la puerta se enciende
         if (requiresKey && !unlocked && PlayerInventory.HasKey)
             Unlock();
     }
@@ -77,7 +77,7 @@ public class ExitDoor : MonoBehaviour
     void LoadNext()
     {
         int index = SceneManager.GetActiveScene().buildIndex;
-        GameTimer.Instance.FinishLevel(index);
+        GameTimer.Instance.FinishLevel(GameFlow.LevelNumber);
         SceneManager.LoadScene(index + 1);
     }
 }

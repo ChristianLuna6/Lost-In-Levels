@@ -1,18 +1,18 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.SceneManagement;
 
 public class SanityManager : MonoBehaviour
 {
     public static SanityManager Instance;
 
-    public Slider sanityBar;         
-    public float restartDelay = 3f;   
+    public Slider sanityBar;          // barra de cordura (Slider de 0 a 1)
+    public float restartDelay = 3f;   // segundos antes de volver al Nivel 1
 
     float sanity = 1f;
     bool lost;
 
+    // Valor actual de 0 a 1 (lo usa FlickerManager)
     public float Sanity { get { return sanity; } }
 
     void Awake() { Instance = this; }
@@ -59,6 +59,7 @@ public class SanityManager : MonoBehaviour
     IEnumerator RestartRoutine()
     {
         yield return new WaitForSeconds(restartDelay);
-        SceneManager.LoadScene(0);
+        // Pierdas donde pierdas, regresas al Nivel 1
+        GameFlow.LoadFirstLevel();
     }
 }

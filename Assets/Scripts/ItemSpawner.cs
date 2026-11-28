@@ -1,22 +1,18 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-// Al empezar el nivel, reparte las latas y el agua de almendras.
-// - A veces deja todo donde lo colocaste en el editor (partida "clásica").
-// - Otras veces los reparte al azar entre los SpawnPoints y las posiciones originales.
 public class ItemSpawner : MonoBehaviour
 {
     public Transform[] spawnPoints;   // puntos extra donde pueden aparecer
-    public GameObject[] cans;         // las 7 latas que ya tienes en la escena
-    public GameObject[] waters;       // las botellas de agua de almendras de la escena
+    public GameObject[] cans;         // las 7 latas de la escena
+    public GameObject[] waters;       // las botellas de agua de almendras
 
     [Range(0f, 1f)]
-    public float originalLayoutChance = 0.3f;   // probabilidad de dejar todo donde lo pusiste (0 a 1)
-    public bool includeOriginalPositions = true; // las posiciones originales también cuentan como lugares posibles
+    public float originalLayoutChance = 0.3f;    // probabilidad de dejar todo donde lo pusiste
+    public bool includeOriginalPositions = true;
 
     void Awake()
     {
-        // Cuántas aguas de almendras hay activas en este nivel
         int active = Mathf.Min(DifficultyManager.WaterCount, waters.Length);
         for (int i = active; i < waters.Length; i++)
             if (waters[i] != null) waters[i].SetActive(false);
@@ -24,7 +20,6 @@ public class ItemSpawner : MonoBehaviour
         // Partida clásica: todo se queda donde lo pusiste
         if (Random.value < originalLayoutChance) return;
 
-        // Reunir los lugares posibles ANTES de mover nada
         var positions = new List<Vector3>();
         foreach (var p in spawnPoints)
             if (p != null) positions.Add(p.position);

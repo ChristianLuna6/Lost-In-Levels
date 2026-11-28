@@ -3,23 +3,22 @@ using UnityEngine;
 using UnityEngine.Rendering;
 using UnityEngine.Rendering.Universal;
 
-
 public class FlickerManager : MonoBehaviour
 {
     [Header("Luces del nivel")]
-    public Transform lightsParent;                 
-    public float calmChancePerSecond = 0.02f;      
-    public float panicChancePerSecond = 1.5f;      
+    public Transform lightsParent;
+    public float calmChancePerSecond = 0.02f;
+    public float panicChancePerSecond = 1.5f;
     [Range(0.05f, 1f)]
-    public float darkestDim = 0.25f;               
+    public float darkestDim = 0.25f;
 
-    [Header("Luz direccional (opcional pero recomendada)")]
-    public Light directionalLight;                 
+    [Header("Luz direccional")]
+    public Light directionalLight;
     [Range(0.05f, 1f)]
-    public float directionalMinFactor = 0.3f;      
+    public float directionalMinFactor = 0.3f;
 
-    [Header("Viñeta (opcional)")]
-    public Volume volume;                          
+    [Header("Viñeta")]
+    public Volume volume;
     public float vignetteCalm = 0.15f;
     public float vignettePanic = 0.6f;
 
@@ -58,7 +57,7 @@ public class FlickerManager : MonoBehaviour
     void Update()
     {
         float sanity = SanityManager.Instance != null ? SanityManager.Instance.Sanity : 1f;
-        float stress = 1f - sanity;                                  
+        float stress = 1f - sanity;
         float chance = Mathf.Lerp(calmChancePerSecond, panicChancePerSecond, stress);
         float dim = Mathf.Lerp(1f, darkestDim, stress);
 
@@ -68,7 +67,6 @@ public class FlickerManager : MonoBehaviour
 
             if (f.timer > 0f)
             {
-          
                 f.timer -= Time.deltaTime;
                 f.light.intensity = f.baseIntensity * Random.Range(0f, 0.35f);
                 continue;

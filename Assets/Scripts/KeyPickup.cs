@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class KeyPickup : MonoBehaviour
 {
-    public float spinSpeed = 60f;   // la llave gira para que se note
+    public float spinSpeed = 60f;   // pon 0 si no quieres que gire
 
     void Update()
     {

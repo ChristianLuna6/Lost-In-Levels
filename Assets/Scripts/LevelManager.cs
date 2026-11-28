@@ -1,6 +1,5 @@
 using System.Collections;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using TMPro;
 
 public class LevelManager : MonoBehaviour
@@ -8,14 +7,14 @@ public class LevelManager : MonoBehaviour
     public static LevelManager Instance;
 
     [Header("Latas")]
-    public int bottlesNeeded = 7; 
+    public int bottlesNeeded = 7; // pon 0 si este nivel no usa latas (por ejemplo, el de la llave)
     public TextMeshProUGUI bottleCounterText;
 
     [Header("Mensajes")]
     public TextMeshProUGUI messageText;
     public CanvasGroup messageGroup;
     public string introMessage = "Mantén el sitio limpio";
-    public string objectiveOverride = ""; 
+    public string objectiveOverride = ""; // si lo llenas, reemplaza el texto "Recoge N latas"
 
     [Header("Salida")]
     public GameObject unlockIcon;
@@ -29,7 +28,7 @@ public class LevelManager : MonoBehaviour
 
     void Start()
     {
-        if (SceneManager.GetActiveScene().buildIndex == 0)
+        if (GameFlow.LevelNumber == 0)
             GameTimer.Instance.ResetTimer();
 
         bool usesCans = bottlesNeeded > 0 || FindObjectsByType<Bottle>(FindObjectsSortMode.None).Length > 0;
@@ -61,7 +60,7 @@ public class LevelManager : MonoBehaviour
         completed = true;
         if (unlockIcon != null) unlockIcon.SetActive(true);
         if (exitDoors != null && exitDoors.Length > 0)
-            exitDoors[Random.Range(0, exitDoors.Length)].Unlock(); // abre una de las dos al azar
+            exitDoors[Random.Range(0, exitDoors.Length)].Unlock();
         ShowMessage("Todo limpio. Una salida se ha abierto", 4f);
     }
 
