@@ -7,11 +7,13 @@ public class SanityManager : MonoBehaviour
 {
     public static SanityManager Instance;
 
-    public Slider sanityBar;          // barra de cordura (Slider de 0 a 1)
-    public float restartDelay = 3f;   // segundos antes de volver al Nivel 1
+    public Slider sanityBar;         
+    public float restartDelay = 3f;   
 
     float sanity = 1f;
     bool lost;
+
+    public float Sanity { get { return sanity; } }
 
     void Awake() { Instance = this; }
 
@@ -57,8 +59,6 @@ public class SanityManager : MonoBehaviour
     IEnumerator RestartRoutine()
     {
         yield return new WaitForSeconds(restartDelay);
-        // Pierdas en el nivel que pierdas, regresas al Nivel 1 (índice 0).
-        // LevelManager reinicia el cronómetro al arrancar el índice 0.
         SceneManager.LoadScene(0);
     }
 }

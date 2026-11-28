@@ -8,13 +8,14 @@ public class LevelManager : MonoBehaviour
     public static LevelManager Instance;
 
     [Header("Latas")]
-    public int bottlesNeeded = 7; // pon 0 para contar automáticamente las latas de la escena
+    public int bottlesNeeded = 7; 
     public TextMeshProUGUI bottleCounterText;
 
     [Header("Mensajes")]
     public TextMeshProUGUI messageText;
     public CanvasGroup messageGroup;
     public string introMessage = "Mantén el sitio limpio";
+    public string objectiveOverride = ""; 
 
     [Header("Salida")]
     public GameObject unlockIcon;
@@ -31,12 +32,20 @@ public class LevelManager : MonoBehaviour
         if (SceneManager.GetActiveScene().buildIndex == 0)
             GameTimer.Instance.ResetTimer();
 
+        bool usesCans = bottlesNeeded > 0 || FindObjectsByType<Bottle>(FindObjectsSortMode.None).Length > 0;
         if (bottlesNeeded <= 0)
             bottlesNeeded = FindObjectsByType<Bottle>(FindObjectsSortMode.None).Length;
 
         if (unlockIcon != null) unlockIcon.SetActive(false);
+
+        // Si el nivel no usa latas, se oculta el contador
+        if (bottleCounterText != null) bottleCounterText.gameObject.SetActive(usesCans);
         UpdateCounter();
-        ShowMessage(introMessage + "\nRecoge " + bottlesNeeded + " latas", 5f);
+
+        string objective = string.IsNullOrEmpty(objectiveOverride)
+            ? "Recoge " + bottlesNeeded + " latas"
+            : objectiveOverride;
+        ShowMessage(introMessage + "\n" + objective, 5f);
     }
 
     public void CollectBottle()
